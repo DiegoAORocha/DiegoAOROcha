@@ -4,6 +4,8 @@
 
 Sou Diego Rocha, estudante de Ciência de Dados, motivado por transformar dados em insights estratégicos, com grande interesse em Machine Learning e Deep Learning. Atualmente, estou consolidando competências em Python (com Pandas e Scikit-learn) e SQL para todo o ciclo de vida do dado, incluindo processos de ETL, e expandindo para tecnologias como Big Data, Business Intelligence (Power BI) e soluções na nuvem com Microsoft Azure.
 
+Meu foco é aplicar essa gama de habilidades para construir soluções inovadoras que gerem impacto real. Encaro os desafios com uma abordagem dedicada e organizada, utilizando a curiosidade para ir além do óbvio e encontrar as melhores respostas nos dados, sempre em um ciclo de aprendizado e desenvolvimento contínuo.
+
 ### 📩 Informações de contato
 
 <p align="left">
